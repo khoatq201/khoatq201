@@ -1,4 +1,4 @@
-# 💻 **Trần Quang Khoa - Front-end Developer**
+# 💻 **Trần Quang Khoa - FullStack Developer**
 
 ✨ Xin chào! Tôi là **Trần Quang Khoa**, một lập trình viên Front-end đam mê tạo ra các sản phẩm web sáng tạo và tối ưu hóa trải nghiệm người dùng. Tôi thích khám phá các công nghệ mới và luôn tìm kiếm cơ hội để học hỏi, phát triển.
 
